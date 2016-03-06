@@ -1,0 +1,12 @@
+Source: ros-jade-pugixml
+Section: misc
+Priority: extra
+Maintainer: Jose Luis Sanchez-Lopez <jl.sanchez@upm.es>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://ros.org/wiki/pugixml
+Standards-Version: 3.9.2
+
+Package: ros-jade-pugixml
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package is pugixml.
