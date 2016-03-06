@@ -1,0 +1,13 @@
+ros-indigo-pugixml (1.7.1-1trusty) trusty; urgency=high
+
+  * updating license and readme
+  * adding compatibility without ROS
+  * minor info update. Still need to be updated properly
+  * upgraded to version 1.7 of pugixml and changed the name
+  * readme
+  * first commit
+  * Contributors: Jose Luis Sanchez Lopez, joselusl
+
+ -- Jose Luis Sanchez-Lopez <jl.sanchez@upm.es>  Sat, 05 Mar 2016 23:00:00 -0000
+
+
